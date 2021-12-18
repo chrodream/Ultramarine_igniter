@@ -1,7 +1,14 @@
+main
 https://akizukidenshi.com/catalog/g/gP-15370/ SLIDESW
 https://akizukidenshi.com/catalog/g/gI-05866/ D
 https://akizukidenshi.com/catalog/g/gI-11879/ Pow-LED
 https://akizukidenshi.com/catalog/g/gI-15477/ RGB-LED
 https://akizukidenshi.com/catalog/g/gC-06070/ TRRS
 https://akizukidenshi.com/catalog/g/gP-08074/ TACTSW
-https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4YZL /Battery
+
+battery area
+https://www.sengoku.co.jp/mod/sgk_cart/detail.php?code=EEHD-4YZL/ Battery
+https://akizukidenshi.com/catalog/g/gI-14654/ Pch MOSFET
+https://akizukidenshi.com/catalog/g/gI-13288/ MCP73831 (charge unit)
+
+
